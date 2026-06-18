@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f3f3;
+    padding: 40px;
+    transition: 0.3s;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+table {
+    width: 100%;
+    margin-top: 30px;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    border: 1px solid lightgray;
+    padding: 10px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 14px;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* Buttons */
+.delete-btn {
+    background: #e74c3c;
+    color: white;
+}
+
+.edit-btn {
+    background: #3498db;
+    color: white;
+}
+
+/* 🌙 DARK MODE */
+body.dark-mode {
+    background: #121212;
+    color: white;
+}
+
+body.dark-mode .form,
+body.dark-mode table {
+    background: #1f1f1f;
+    color: white;
+}
+
+body.dark-mode input,
+body.dark-mode textarea {
+    background: #2c2c2c;
+    color: white;
+    border: 1px solid #444;
+}
+
+body.dark-mode th,
+body.dark-mode td {
+    border: 1px solid #444;
+}
