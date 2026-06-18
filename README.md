@@ -38,8 +38,7 @@ This project was built to practice frontend web development and create a useful 
 
 ## 🌐 Live Demo
 
-(Insert your GitHub Pages link here once working)
-
+(https://y0j1th.github.io/Volunteer-Hour-Tracker/)
 ---
 
 ## 📂 How to Run Locally
