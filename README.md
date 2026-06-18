@@ -26,13 +26,13 @@ A simple web application that allows users to track volunteer hours for a nonpro
 
 ## 🎯 Purpose
 
-This project was built to practice frontend web development and create a useful tool for tracking volunteer hours for nonprofit work. It also serves as a portfolio project for internship and college applications.
+This project was built to practice frontend web development and create a useful tool for tracking volunteer hours for nonprofit work.
 
 ---
 
 ## 📸 Screenshots
-
-(Add screenshots here of your app in light mode and dark mode)
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/7866d50a-134d-4e15-827e-21e256fe8a58" />
+<img width="1919" height="1031" alt="Screenshot 2026-06-18 083611" src="https://github.com/user-attachments/assets/8c23af74-c0e9-4748-9704-5bfa265dc82e" />
 
 ---
 
